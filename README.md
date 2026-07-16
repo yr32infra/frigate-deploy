@@ -1,3 +1,3 @@
 # frigate
 
-Deployed on: debian2 (compose-cd)
+Deployed on: arch (compose-cd)
