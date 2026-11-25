@@ -1,3 +1,3 @@
 # frigate
 
-Deployed on: arch (compose-cd)
+Deployed on: arch, telum (compose-cd)
